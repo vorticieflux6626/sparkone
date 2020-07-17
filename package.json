@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "SparkOne() Labs TF NPM PKG",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vorticieflux6626/sparkone"
+  },
   "dependencies": {
     "@tensorflow/tfjs-node": "^2.0.1"
   },
